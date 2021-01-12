@@ -1,2 +1,2 @@
 # First-Step
-# a copy of main
+# The first time to contact with Github
